@@ -1,5 +1,5 @@
 import { Component, OnInit } from "@angular/core";
-import { ServicoService } from "../servico.service";
+import { ServicoService } from '../servico.service';
 
 @Component({
   selector: "app-log",
