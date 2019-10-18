@@ -1,8 +1,9 @@
 import { Component } from "@angular/core";
-import { ServicoService } from '../servico.service';
+import { ServicoService } from './servico.service';
 
 @Component({
   selector: "my-app",
+  providers: [ServicoService],
   templateUrl: "./app.component.html",
   styleUrls: ["./app.component.css"]
 })

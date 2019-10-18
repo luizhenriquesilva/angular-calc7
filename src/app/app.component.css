@@ -1,3 +1,21 @@
 p {
   font-family: Lato;
 }
+
+button {
+padding: 15px 20px;
+border: 2px solid white;
+border-radius: 15%;
+width: 10%;
+} 
+
+input {
+  align-self: center;
+  padding: 20px 40px;
+  border-radius: 5%;
+}
+
+body{
+
+  
+}
