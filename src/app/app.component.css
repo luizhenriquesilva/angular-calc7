@@ -1,21 +1,29 @@
-p {
-  font-family: Lato;
-}
 
-button {
-padding: 15px 20px;
-border: 2px solid white;
-border-radius: 15%;
-width: 10%;
-} 
+
+body{
+background-color: #62889555;
+padding: 20px;
+margin: auto;
+border: 2px solid black;
+border-radius: 3%;
+}
 
 input {
   align-self: center;
-  padding: 20px 40px;
   border-radius: 5%;
+  margin-bottom: 3%;
+  width: 100%;
 }
 
-body{
 
-  
-}
+button {
+
+width:60px;
+height:60px;
+margin: auto;
+border: 2px solid white;
+
+border-radius: 15%;
+} 
+
+
